@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+.LINE {
+    width: 71px;
+    height: 5px;
+    background-color: yellowgreen;
+    margin:  8px auto;
+}
